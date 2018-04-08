@@ -1,0 +1,2 @@
+# CsMethod
+メソッド（.NET Core）
